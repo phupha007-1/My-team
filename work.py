@@ -344,3 +344,7 @@ print("fong")
 def student():
     print("student")
     print("animal")
+
+a = 10
+b = 20
+print("a + b =", a + b)
